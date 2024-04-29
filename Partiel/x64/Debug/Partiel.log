@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\amohamed\source\repos\Partiel\Partiel\main.c(18,12): warning C4026: fonction déclarée avec une liste de paramètres formels
+  player.c
+C:\Users\amohamed\source\repos\Partiel\Partiel\player.c(29,64): warning C4029: la déclaration de la liste de paramètres formels est différente de la définition
+  Génération de code en cours...
+  Partiel.vcxproj -> C:\Users\amohamed\source\repos\Partiel\x64\Debug\Partiel.exe
